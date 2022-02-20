@@ -9,7 +9,7 @@ This is the source code for the **Neural Computation Coursework**. The module *N
 ## Coursework 1: Backpropagation and Softmax
 The goal of this coursework is to implement and train a feedforward neural network with a softmax layer to classify pictures of fashion items from the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) data set.
 
-To complete the coursework 1, we are allowed to use the Numpy and Matplolib in Python 3. However, we are not allowed to use any neural network library which provides autograd functionality, such as PyTorch or TensorFlow.
+To complete the coursework 1, we are allowed to use the Numpy and Matplolib in Python 3. However, we are ***not*** allowed to use any neural network library which provides autograd functionality, such as PyTorch or TensorFlow.
 
 We implemented the **backpropagation algorithm** and **mini-batch gradient descent**. The main code is in file:  
 [**NeuralComp-Coursework/cw1-2020-files/backprop-softmax.py**](https://github.com/LetianLee/NeuralComp-Coursework/blob/main/cw1-2020-files/backprop-softmax.py)
